@@ -7,4 +7,11 @@ Resep nasi goreng sederhana yang bisa dibuat oleh siapa saja dalam Waktu singkat
 - 2 suing bawang putih, cincang halus
 - 1 butir telur 
 - Kecap manis secukupnya
-- Garam dan merica secukupnya 
+- Garam dan merica secukupnya
+
+## Langkah-Langkah:
+1. Panaskan wajan dan tumis bawang putih hingga harum.
+2. Masukkan telur, orak-arik hingga matang. 
+3. Masukkan nasi dan aduk rata.
+4. Tambahkan kecap, garam, merica. Aduk hingga warna merata dan koreksi rasa.
+5. Sajikan selagi hangat.
