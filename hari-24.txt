@@ -1,0 +1,28 @@
+diff --git a/portofolio.html b/portofolio.html
+index 81d3186..2594b01 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,7 @@
+     <title>Portofolio Saya</title>
+ </head>
+ <body>
+-    <h1>Selamat Datang di Portofolio Saya</h1>
++    <h1>Selamat Datang di Portofolio Ira</h1>
+     <p>Proyek-proyek saya akan ditampilkan di sini.</p>
+     <script src="script.js"></script>
+ </body>
+diff --git a/profil.txt b/profil.txt
+index ea2d0d0..a344b12 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ Nama: Ira Programmer
++Kota: Jakarta
+
+diff --git a/profil.txt b/profil.txt
+index ea2d0d0..a344b12 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ Nama: Ira Programmer
++Kota: Jakarta
